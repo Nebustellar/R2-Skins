@@ -5,4 +5,6 @@ Following links all go to my MEGA.nz filedump
 
 https://mega.nz/file/2pE3gLwT
 
-	Encryption Key; ANzCSRx4_AxyMe4BXBzu-IqeT_y0iNTp5RLvtL_I8eE
+Decryption Key; 
+
+	ANzCSRx4_AxyMe4BXBzu-IqeT_y0iNTp5RLvtL_I8eE
